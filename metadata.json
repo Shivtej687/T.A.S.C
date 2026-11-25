@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Midnight Void",
+  "description": "National Defence Surveillance & Intelligence Terminal with Criminal Records Database and Real-Time Feeds.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
